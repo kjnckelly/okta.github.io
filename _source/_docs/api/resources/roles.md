@@ -441,7 +441,7 @@ The example shows two applications and two instances. Note the response for inst
     "id": "0oapsqQ5dv19pqyEo0g3",
     "_links": {
       "self": {
-          "href": "http:s//{yourOktaDomain}.com/api/v1/apps/0oapsqQ5dv19pqyEo0g3"
+          "href": "https://{yourOktaDomain}.com/api/v1/apps/0oapsqQ5dv19pqyEo0g3"
       }
     }
   },
